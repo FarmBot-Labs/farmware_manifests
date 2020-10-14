@@ -7,8 +7,8 @@
   "package_version": "0.0.2",
   "farmbot_os_version_requirement": ">=4.0.0",
   "farmware_tools_version_requirement": ">=0.0.0",
-  "url": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/master/packages/camera-calibration/manifest_v2.json",
-  "zip": "https://github.com/FarmBot-Labs/farmware_manifests/archive/master.zip",
+  "url": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/main/packages/camera-calibration/manifest_v2.json",
+  "zip": "https://github.com/FarmBot-Labs/farmware_manifests/archive/main.zip",
   "executable": "python",
   "args": "../plant-detection/plant-detection-master/quickscripts/capture_and_calibrate.py"
 }
